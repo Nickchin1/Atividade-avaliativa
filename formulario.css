@@ -1,0 +1,50 @@
+body{
+    background-color: lightcoral;
+}
+h1{
+    border-style: solid; 
+    border-radius: 2rem;
+    text-align: center;
+    background-color: bisque;
+}
+#anime{
+    border-style: solid; 
+    border-radius: 2rem;
+    text-align: center;
+    
+}
+#genero{
+    border-style: solid; 
+    border-radius: 2rem;
+    text-align: center;
+}
+#ano{
+    border-style: solid; 
+    border-radius: 2rem;
+    text-align: center;
+}
+#nota{
+    border-style: solid; 
+    border-radius: 2rem;
+    text-align: center;
+}
+button{
+    border-style: solid; 
+    border-radius: 2rem;
+    text-align: center;
+}
+table{
+    border-style: solid; 
+    border-radius: 2rem;
+    table-layout: fixed;
+    border-color: black;
+}
+th{
+    background-color: bisque;
+    border-radius: 2rem;
+    border-color: black;
+}
+tbody{
+background-color: cornsilk;
+border-radius: 2rem;
+}
